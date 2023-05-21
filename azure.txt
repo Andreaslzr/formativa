@@ -1,0 +1,5 @@
+link azure: formativabcd.mysql.database.azure.com
+
+nome de logon: root188
+
+senha: Formativa!
